@@ -5,4 +5,4 @@ applications:
   buildpack: liberty-for-java
   env:
     CONVERSATION_WORKSPACE_ID: ee493979-f22a-49a6-afc0-99fccad28a08
-    CAR_SERVICE_HOST: chatbotjeff.mybluemix.net
+    CAR_SERVICE_HOST: https://iotcarjeff2.mybluemix.net/
