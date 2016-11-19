@@ -21,14 +21,14 @@ public class Configuration {
 	/**
 	 * TODO: If you're testing this application locally, please get the credentials from Bluemix
 	 */
-	public String TEXT_TO_SPEECH_USERNAME = "";
-	public String TEXT_TO_SPEECH_PASSWORD = "";
+	public String TEXT_TO_SPEECH_USERNAME = "1d336f8d-efe4-4195-8439-4533a2eeb7c5";
+	public String TEXT_TO_SPEECH_PASSWORD = "a5tEoPfYXUaf";
 
-	public String SPEECH_TO_TEXT_USERNAME = "";
-	public String SPEECH_TO_TEXT_PASSWORD = "";
+	public String SPEECH_TO_TEXT_USERNAME = "f404d2dc-06be-464e-99c0-3069612b3951";
+	public String SPEECH_TO_TEXT_PASSWORD = "MwmVEeV6IEj1";
 
-	public String CONVERSATION_USERNAME = "";
-	public String CONVERSATION_PASSWORD = "";
+	public String CONVERSATION_USERNAME = "40669eb6-fbd1-46f3-95dd-1f40e1c9ab27";
+	public String CONVERSATION_PASSWORD = "pT6KKwHSXDep";
 
 	/**
 	 * TODO: Get Workspace ID from IBM Watson Conversation: https://ibmwatsonconversation.com
